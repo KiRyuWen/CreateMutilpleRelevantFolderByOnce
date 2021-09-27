@@ -1,4 +1,4 @@
-# CreateMutilpleFolderByOnce
+# CreateMutilpleRelevantFolderByOnce
 This is a create folders by once program
 
 ## environment
